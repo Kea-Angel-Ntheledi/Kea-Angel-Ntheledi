@@ -30,11 +30,11 @@ Let's connect and create awesome things together! 😄
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,html,css,react,figma&theme=light" />
+    <img src="https://skillicons.dev/icons?i=javascript,html,css,tailwind,figma&theme=light" />
   </a>
 </p>
 
-[![Kealeboga Angel Ntheledi's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaboxan)](https://github.com/thaboxan/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaboxan&size_weight=0.5&count_weight=0.5)
-![](https://komarev.com/ghpvc/?username=thaboxan)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=thaboxan)](https://git.io/streak-stats)
+[![Kealeboga Angel Ntheledi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kea-Angel-Ntheledi)](https://github.com/Kea-Angel-Ntheledi/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kea-Angel-Ntheledi&size_weight=0.5&count_weight=0.5)
+![](https://komarev.com/ghpvc/?username=Kea-Angel-Ntheledi)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Kea-Angel-Ntheledi)](https://git.io/streak-stats)

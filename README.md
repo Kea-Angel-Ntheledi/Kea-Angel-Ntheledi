@@ -10,8 +10,8 @@ I am Kealeboga Angel Ntheledi, a student at CodeSpace Academy, where I am delvin
 
 ## Thrilling content
 - I am enthusiastic about acquiring new knowledge and honing my abilities, actively pursuing fresh challenges and chances to develop further.
-- - In addition to programming, I find pleasure in hiking and discovering emerging technologies.
--  I have a passion for tackling challenges and working together with others to come up with creative answers.
+- In addition to programming, I find pleasure in hiking and discovering emerging technologies.
+- I have a passion for tackling challenges and working together with others to come up with creative answers.
 
 ## Contact Me
 

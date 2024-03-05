@@ -2,7 +2,7 @@
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello!+My+name+is+Kea+Angel+Ntheledi;%3CEat%2C+Sleep%2C+Code%2F%3E...+Repeat;Aspiring+Software+Developer)](https://git.io/typing-svg)
 
-<h1 align="center">Hey 👋, Welcome to my Github Universe!</h1>
+ # Hey 👋, Welcome to my Github Universe!</h1>
 
 ## About Me
 
@@ -30,7 +30,7 @@ Let's connect and create awesome things together! 😄
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,html,css,tailwind,figma&theme=light" />
+    <img src="https://skillicons.dev/icons?i=javascript,html,css,tailwind,&theme=light" />
   </a>
 </p>
 

@@ -30,7 +30,7 @@ Let's connect and create awesome things together! 😄
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,html,css,tailwind" />
+    <img src="https://skillicons.dev/icons?i=javascript,html,css" />
   </a>
 </p>
 

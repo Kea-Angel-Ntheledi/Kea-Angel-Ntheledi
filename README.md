@@ -34,7 +34,10 @@ Let's connect and create awesome things together! 😄
   </a>
 </p>
 
-[![Kealeboga Angel Ntheledi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kea-Angel-Ntheledi)](https://github.com/Kea-Angel-Ntheledi/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kea-Angel-Ntheledi&size_weight=0.5&count_weight=0.5)
-![](https://komarev.com/ghpvc/?username=Kea-Angel-Ntheledi)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Kea-Angel-Ntheledi)](https://git.io/streak-stats)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Kea-Angel-Ntheledi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Kealeboga Angel Ntheledi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Kealeboga Nakedi-Ntheledi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/kealebogaa.nakedi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/KeaANtheledi)  
+
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kea-Angel-Ntheledi&show_icons=true)  
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Kea-Angel-Ntheledi/contributions?format=svg&private=false)  

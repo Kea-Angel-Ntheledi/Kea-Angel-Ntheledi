@@ -1,40 +1,30 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=My+name+is+Kealeboga+Angel+Ntheledi;%3CEat%2C+Sleep%2C+Code%2F%3E...+Repeat;Aspiring+Software+Developer)](https://git.io/typing-svg)
+<h1 align="center">Hi 👋, I'm Kealeboga Angel Ntheledi</h1>
+<h3 align="center">a student at CodeSpace Academy, where I am delving into the realm of Software Development.</h3>
 
-Hey there! 👋 Welcome to my GitHub Universe!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kea-angel-ntheledi&label=Profile%20views&color=0e75b6&style=flat" alt="kea-angel-ntheledi" /> </p>
 
-## About Me
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kea-angel-ntheledi" alt="kea-angel-ntheledi" /></a> </p>
 
-My name is Kealeboga Ntheledi, currently studying Software Development at CodeSpace Academy. While my background is in Finance, economica and accounting management, I've always been fascinated by coding and decided to pivot into the world of software development. I'm passionate about creating efficient and user-friendly web/mobile applications.
+<p align="left"> <a href="https://twitter.com/keaantheledi" target="blank"><img src="https://img.shields.io/twitter/follow/keaantheledi?logo=twitter&style=for-the-badge" alt="keaantheledi" /></a> </p>
 
+- 👨‍💻 All of my projects are available at [https://github.com/Kea-Angel-Ntheledi?tab=repositories](https://github.com/Kea-Angel-Ntheledi?tab=repositories)
 
-## Extra Exciting Stuff
+- 💬 Ask me about **HTML, CSS, JavaScript & Tailwind**
 
-- I love problem-solving and collaborating with others to find innovative solutions.
-- Outside of coding, I enjoy hiking and exploring new technologies.
-- I'm always eager to learn and expand my skill set, constantly seeking out new challenges and opportunities for growth.
+- 📫 How to reach me **kealebogaangelntheledi@gmail.com**
 
-## Contact Me
+- ⚡ Fun fact **I think i'm fun!**
 
-Feel free to reach out to me via:
-
-- 📞 Phone: 072 170 1931
-- ✉️ Email: kealebogaangelnakedi@icloud.com/kealebogaangelntheledi@gmail.com
-- Personal Portfolio: https://thabojaftaportfoliox.netlify.app/
-- Linkedin Profile: https://www.linkedin.com/in/thabojafta1
-
-Let's connect and create awesome things together! 😄
-
-
-
-## 🚀 Technologies
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,html,css,react,figma&theme=light" />
-  </a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/keaantheledi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="keaantheledi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kealeboga angel ntheledi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kealeboga angel ntheledi" height="30" width="40" /></a>
+<a href="https://fb.com/kealeboga nakedi-ntheledi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kealeboga nakedi-ntheledi" height="30" width="40" /></a>
+<a href="https://instagram.com/kealebogaa.nakedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kealebogaa.nakedi" height="30" width="40" /></a>
+<a href="https://discord.gg/Kealeboga A Ntheledi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Kealeboga A Ntheledi" height="30" width="40" /></a>
 </p>
 
-[![Thaboxan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kea-Angel-Ntheledi)](https://github.com/Kea-Angel-Ntheledi/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kea-Angel-Ntheledi&size_weight=0.5&count_weight=0.5)
-![](https://komarev.com/ghpvc/?username=Kea-Angel-Ntheledi)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Kea-Angel-Ntheledi)](https://git.io/streak-stats)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kea-angel-ntheledi&" alt="kea-angel-ntheledi" /></p>

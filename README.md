@@ -1,6 +1,6 @@
 
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello!+My+name+is+Kea+Angel+Ntheledi;%3CEat%2C+Sleep%2C+Code%2F%3E...+Repeat;Aspiring+Software+Developer)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello!+My+name+is+Kealeboga+Angel+Ntheledi;%3CEat%2C+Sleep%2C+Code%2F%3E...+Repeat;Aspiring+Software+Developer)](https://git.io/typing-svg)
 
  # Hey 👋, Welcome to my Github Universe!</h1>
 

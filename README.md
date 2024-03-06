@@ -35,6 +35,6 @@ Let's connect and create awesome things together! 😄
 </p>
 
 [![Kealeboga Angel_Ntheledi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kea-Angel-Ntheledi)](https://github.com/Kea-Angel-Ntheledi/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaboxan&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kea-Angel-Ntheledi&size_weight=0.5&count_weight=0.5)
 ![](https://komarev.com/ghpvc/?username=Kea-Angel-Ntheledi)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Kea-Angel-Ntheledi)](https://git.io/streak-stats)

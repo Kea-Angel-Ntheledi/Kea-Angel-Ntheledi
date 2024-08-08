@@ -18,7 +18,7 @@ I am Kealeboga Angel Ntheledi, a student at CodeSpace Academy, where I am delvin
 Feel free to reach out to me via:
 
 - 📞 Phone: +27 69 114 0064
-- ✉️ Email: kealebogaangelntheledi@gmail.com/ kealebogaangelnakedi@icloud.com
+- ✉️ Email: kealebogaangelntheledi@gmail.com/ kealebogantheledi@icloud.com
 - Personal Portfolio: https://kealebogaa-ntheledi-persport-0026ea.netlify.app/
 - Linkedin Profile: https://www.linkedin.com/in/kealeboga-angel-ntheledi-3a94822b3/
 
@@ -27,6 +27,10 @@ Let's connect and create awesome things together! 😄
 
 
 ## 🚀 Technologies
+- Programming languages: JavaScript, HTML/CSS
+- Frameworks: React, Vue.js, Svelte, Alpine
+- Databases: MongoDB, Firebase
+
 
 <p align="center">
   <a href="https://skillicons.dev">

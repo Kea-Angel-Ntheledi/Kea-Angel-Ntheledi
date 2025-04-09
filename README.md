@@ -6,7 +6,7 @@
 
 ## About Me
 
-I am Kealeboga Angel Ntheledi, a student at CodeSpace Academy, where I am delving into the realm of Software Development. Despite my previous focus on Finance, Economics, and Accounting Management, I've long held a keen interest in coding. This fascination has led me to transition into the dynamic world of software development. My goal is to craft sleek, intuitive web and mobile applications that enhance user experiences and streamline processes.
+I am Kealeboga Angel Ntheledi, a graduate from CodeSpace Academy, where I delved into the realm of Software Engineering. Despite my previous focus on Finance, Economics, and Accounting Management, I've long held a keen interest in coding. This fascination has led me to transition into the dynamic world of software Engineering. My goal is to craft sleek, intuitive web and mobile applications that enhance user experiences and streamline processes.
 
 ## Thrilling content
 - I am enthusiastic about acquiring new knowledge and honing my abilities, actively pursuing fresh challenges and chances to develop further.
@@ -17,7 +17,7 @@ I am Kealeboga Angel Ntheledi, a student at CodeSpace Academy, where I am delvin
 
 Feel free to reach out to me via:
 
-- 📞 Phone: +27 69 114 0064
+- 📞 Phone: +27 68 208 8235
 - ✉️ Email: kealebogaangelntheledi@gmail.com/ kealebogantheledi@icloud.com
 - Personal Portfolio: https://kealebogaa-ntheledi-persport-0026ea.netlify.app/
 - Linkedin Profile: https://www.linkedin.com/in/kealeboga-angel-ntheledi-3a94822b3/

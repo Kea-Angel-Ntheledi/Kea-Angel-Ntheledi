@@ -6,8 +6,6 @@
 
 I am Kealeboga Angel Ntheledi, a graduate from CodeSpace Academy, where I delved into the realm of Software Engineering. Despite my previous focus on Finance, Economics, and Accounting Management, I've long held a keen interest in coding. This fascination has led me to transition into the dynamic world of software engineering.
 
-✨ **Exciting News**: I recently secured a **Software Development Internship** — a huge step in turning my passion into professional experience!
-
 My goal is to craft sleek, intuitive web and mobile applications that enhance user experiences and streamline processes.
 
 ## Thrilling Content
